@@ -11,4 +11,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Dashboard
 
+![alt text](https://github.com/freevs/Hospitality-Analysis/blob/main/Hospitality%20Analysis/Hospitality%20Analysis%20Dashboard.png "Hospitality Analysis")
+
 ## Insights
+* Mumbai generates the highest revenue with 669M followed by Bangalore, Hyderabad and Delhi.
+* Around 58.9% bookings are in weekends while the other 41% are in weekdats.
+* AtliQ Blu has the highest occupancy of 66%.
+* Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+* Week 19 recorded the highest revenue among all, which is 140 Million.
+* AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57.26% and cancellation rate as 24.37%.
